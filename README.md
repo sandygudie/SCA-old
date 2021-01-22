@@ -16,7 +16,7 @@ Creating a dockerfile with Node js
 - To run the Docker image - `docker run -p 49160:8080 -d dockerdemo`
 - Run the image on your Docker desktop, you should have the welcome message.
 
-## Feature Branch
+### Feature Branch
 - Do same for feature branch
 - Run the image on your Docker desktop, you should have the welcome message. "Welcome to SCA Cloud School Application , this is my first assessment"
  
