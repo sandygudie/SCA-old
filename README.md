@@ -1,5 +1,5 @@
 # SCA-Cloud-School-Application
-Creating a dockerfile with Node js
+Creating a Dockerfile with Node js
 
 ### Running the project locally
 - Fork this repository
